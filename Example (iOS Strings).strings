@@ -5,11 +5,14 @@
 /* а тут третій буде */
 "test" = "Here is some %2$@, baby";
 /* а тут на пробу, щоб спочатку завантажити з редактора */
+"1" = "Hello!";
+"2" = "Hello!";
 "3" = "Hello!";
-"4" = "Hello!";
-"23" = "Hello!";
-"34" = "WTF";
-"35" = "WTF";
-"36" = "WTF";
-"25" = "NEW NEW";
-"12" = "It's work";
+"4" = "WTF";
+"5" = "WTF";
+"6" = "WTF";
+"7" = "New New";
+"8" = It`s work;
+/* добавляю стрічки в редакторі GitHub */
+"9" = integration;
+"10" = integratijn GitHub.
