@@ -1,14 +1,14 @@
 /* тут буде контекст */
-"unique_identifier_1" = "String for translation";
+"unique_identifier_1" = "Chaîne pour la traduction";
 /* тут буде щеодин контекст */
-"unique_identifier_2" = "String for translation 2";
+"unique_identifier_2" = "Chaînes des séquences 2";
 /* а тут третій буде */
-"test" = "Here is some %2$@, baby";
+"test" = "Voici quelques %2$@, bébé";
 /* а тут на пробу, щоб спочатку завантажити з редактора */
-"1" = "Hello!";
-"2" = "Hello!";
-"3" = "Hello!";
+"1" = "Salut!";
+"2" = "Salut!";
+"3" = "Salut!";
 "4" = "WTF";
 "5" = "WTF";
 "6" = "WTF";
-"7" = "New New";
+"7" = "Nouveau nouveau";
