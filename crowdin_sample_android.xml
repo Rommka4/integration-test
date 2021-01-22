@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
+<resources>
+  <string name="welcome">Welcome!</string>
+  <string name="save_as">Save as...</string>
+  <string name="view">View</string>
+  <string name="about">About...</string>
+  <string name="about_me">About Me</string>
+  <string name="1">Welcome!</string>
+  <string name="2">Save as....</string>
+  <string name="3">View</string>
+  <string name="11">Strings Management</string>
+  <string name="7">WTF</string>
+  <string name="8">help</string>
+  <string name="34">In THis Article</string>
+  <string name="35">In THis Article</string>
+</resources>
