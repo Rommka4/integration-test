@@ -5,3 +5,5 @@ files:
     translation: /%two_letters_code%/%original_file_name%
   - source: /Example (iOS Strings).strings
     translation: /%language%/%file_name%
+  - source: /**/*.md
+    translation: '%two_letters_code%'
