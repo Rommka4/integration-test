@@ -3,5 +3,8 @@ files:
     ignore:
       - /1.3.json
     translation: /%two_letters_code%/%original_file_name%
+    "translation_replace" : {
+    "1.3":"new"
+    }
   - source: /Example (iOS Strings).strings
     translation: /%language%/%file_name%
