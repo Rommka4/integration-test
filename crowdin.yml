@@ -10,7 +10,7 @@ files:[
   - source: /Example (iOS Strings).strings
     translation: /%language%/%file_name%
     translation_replace : {
-    Example (iOS Strings) : IOS
+    "Example (iOS Strings)" : "IOS"
     }
     }
 ]
